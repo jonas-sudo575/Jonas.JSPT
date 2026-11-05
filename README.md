@@ -1,46 +1,23 @@
-[README_v2.md](https://github.com/user-attachments/files/34400831/README_v2.md)
+[README_v3.md](https://github.com/user-attachments/files/34400990/README_v3.md)
 <div align="center">
 
-<img src="assets/banner.svg" alt="Jonas JSPT - Desarrollador Web Frontend" width="100%" />
+<img src="img/banner.svg" alt="Jonas JSPT - Desarrollador Web Frontend" width="100%" />
 
 <br>
 
 ![Visitas](https://komarev.com/ghpvc/?username=jonas-sudo575&label=VISITAS&color=7c3aed&style=for-the-badge&labelColor=000000)
 ![Seguidores](https://img.shields.io/github/followers/jonas-sudo575?label=SEGUIDORES&style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=a855f7)
 ![Debian](https://img.shields.io/badge/DEBIAN-A81D33?style=for-the-badge&logo=debian&logoColor=white&labelColor=000000)
-![Estado](https://img.shields.io/badge/ESTADO-DISPONIBLE-22c55e?style=for-the-badge&labelColor=000000)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=a855f7)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=a855f7)
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<br>
 
-## 🖥️ Terminal
+<img src="img/h-sobre.svg" alt="Sobre mí" width="100%" />
 
-```bash
-jonas@debian:~$ neofetch
-
-       _,met$$$$$gg.          jonas@debian
-    ,g$$$$$$$$$$$$$$$P.       ------------
-  ,g$$P"     """Y$$.".        Rol ......... Desarrollador Web Frontend
- ,$$P'              `$$$.     OS .......... Debian GNU/Linux
-',$$P       ,ggs.     `$$b:   Lenguajes ... HTML5, CSS3, JS, Python
-`d$$'     ,$P"'   .    $$$    Enfoque ..... Páginas web responsivas
- $$P      d$'     ,    $$P    Editor ...... VS Code / Terminal
- $$:      $$.   -    ,d$$'    Mantra ...... Código limpio, diseño con alma
- $$;      Y$b._   _,d$P'
- Y$$.    `.`"Y$$$$P"'
- `$$b      "-.__
-  `Y$$b
-   `Y$$.
-     `$$b.
-       `Y$$b.
-          `"Y$b._
-              `"""
-```
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🌌 Sobre Mí
+<br>
 
 - 🌐 Creo **páginas web** que transforman ideas en interfaces funcionales, atractivas y responsivas.
 - 🎨 Me apasiona la **maquetación limpia** con **HTML5 y CSS3**.
@@ -48,19 +25,35 @@ jonas@debian:~$ neofetch
 - 🐧 Mi hogar es **Debian**: estable, libre y a mi medida.
 - 🌱 Siempre aprendiendo algo nuevo.
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<br>
 
-## 🛰️ Stack
+<img src="img/h-terminal.svg" alt="Terminal" width="100%" />
+
+<br>
+
+<img src="img/terminal.svg" alt="Terminal de Jonas" width="100%" />
+
+<br>
+
+<img src="img/h-stack.svg" alt="Stack tecnológico" width="100%" />
+
+<br>
+
+<img src="img/skills.svg" alt="Tecnologías orbitando un agujero negro" width="100%" />
 
 <div align="center">
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,debian,bash,git,github,vscode&theme=dark" alt="Stack" />
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<br>
 
-## 📡 Estadísticas
+<img src="img/h-stats.svg" alt="Estadísticas" width="100%" />
+
+<br>
 
 <div align="center">
 
@@ -73,57 +66,57 @@ jonas@debian:~$ neofetch
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🚀 Proyectos
-
-<details open>
-<summary><b>🌐 Mi Portafolio</b></summary>
 <br>
 
+<img src="img/h-proyectos.svg" alt="Proyectos" width="100%" />
+
+<br>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🌐 Mi Portafolio
 Página personal donde muestro mis trabajos y habilidades.
 
 `HTML` `CSS` `JavaScript`
 
-</details>
+</td>
+<td width="33%" valign="top">
 
-<details>
-<summary><b>🛒 Tienda Demo</b></summary>
-<br>
-
+### 🛒 Tienda Demo
 Maqueta de e-commerce responsiva y moderna.
 
 `HTML` `CSS` `JavaScript`
 
-</details>
+</td>
+<td width="33%" valign="top">
 
-<details>
-<summary><b>🐍 Script Útil</b></summary>
-<br>
-
+### 🐍 Script Útil
 Automatización de tareas en Linux.
 
 `Python` `Bash`
 
-</details>
+</td>
+</tr>
+</table>
 
-> 💡 Cambia estos por tus proyectos reales y agrega el enlace de cada uno.
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<div align="center">
-
-## 📫 Contacto
-
-[![GitHub](https://img.shields.io/badge/GitHub-jonas--sudo575-000000?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/jonas-sudo575)
+> 💡 Cambia estos tres por tus proyectos reales y agrega el enlace de cada uno.
 
 <br>
 
-```bash
-jonas@debian:~$ echo "Gracias por pasar por mi galaxia 🌌"
-Gracias por pasar por mi galaxia 🌌
-```
+<img src="img/h-contacto.svg" alt="Contacto" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3b0764,100:7c3aed&height=110&section=footer" width="100%" alt="" />
+<br>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-jonas--sudo575-000000?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/jonas-sudo575)
+<!-- [![Email](https://img.shields.io/badge/Email-tucorreo@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:tucorreo@gmail.com) -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tu%20Nombre-000000?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://linkedin.com/in/tuusuario) -->
 
 </div>
+
+<br>
+
+<img src="img/footer.svg" alt="Gracias por pasar por mi galaxia" width="100%" />
